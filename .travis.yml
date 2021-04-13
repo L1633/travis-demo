@@ -6,4 +6,3 @@ script:
   - echo 'Hello world'
   - node -v
 
-
