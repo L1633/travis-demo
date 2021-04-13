@@ -1,7 +1,7 @@
 language: node_js
-node_js：
-  - "11"
+node_js:
+  - "10"
 
 script:
-    - echo 'Hello world'
-    - node -v
+  - echo 'Hello world'
+  - node -v
