@@ -4,5 +4,4 @@ node_js：
 
 script:
   - echo 'Hello world'
-  - node -v
 
